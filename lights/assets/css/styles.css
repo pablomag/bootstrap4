@@ -1,0 +1,75 @@
+html,
+body
+{
+	height: 100%;
+}
+
+img
+{
+	max-width: 100%;
+}
+
+.card > img
+{
+	width: 100%;
+}
+
+.lights-logo
+{
+	padding-right: 1rem;
+	width: 20%;
+}
+
+#navbar-black
+{
+	background-color: black !important;
+}
+
+.jumbotron
+{
+	padding: 17rem 0 1rem 0;
+	margin-bottom: 0;
+	background: url('../images/lights-transparent.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 50%;
+	background-color: #f2d3c2;
+}
+
+.jumbotron .container
+{
+	width: 100%;
+	background-color: rgba(99, 99, 99, .3);
+	padding: 2rem;
+	color: black;
+	height: 50%;
+}
+
+.jumbotron p
+{
+	color: white;
+	text-shadow: 0 0 10px rgba(0, 0, 0, .5);
+}
+
+#footer
+{
+	background: #222;
+	color: white;
+	font-size: .9rem;
+	padding: 2rem 0;
+}
+
+#footer a:link
+{
+	color: #D1394A;
+}
+
+#footer a:hover
+{
+	color: #D1394A;
+}
+
+#footer a:visited
+{
+	color: #D1394A;
+}
